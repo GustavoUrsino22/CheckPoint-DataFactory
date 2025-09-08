@@ -1,0 +1,9 @@
+{
+	"name": "check-point-rm554613-datafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8dcb5a71-7783-4e03-9da3-ba492bca971d",
+		"tenantId": "11dbbfe2-89b8-4549-be10-cec364e59551"
+	}
+}
